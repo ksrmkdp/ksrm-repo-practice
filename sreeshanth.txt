@@ -1,0 +1,3 @@
+this file is using to check the file is moving from staging area to working area
+
+just edited`
